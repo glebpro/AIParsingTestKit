@@ -1,0 +1,7 @@
+{
+    "entity_types": ["task", "event", "habit", "override", "unknown"],
+    "file_prefix": "LLMEval",
+    "output_directory": "ExportedData",
+    "metrics_history_file": "metrics_history.json",
+    "plot_directory": "plots"
+}
